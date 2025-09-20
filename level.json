@@ -1,0 +1,46 @@
+{
+  "objects": [
+    {
+      "type": "bloco",
+      "position": { "x": 0, "y": 0, "z": 0 },
+      "scale": { "x": 10, "y": 0.5, "z": 10 },
+      "color": "#4CAF50"
+    },
+    {
+      "type": "bloco",
+      "position": { "x": -4, "y": 1, "z": 0 },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "color": "#F44336"
+    },
+    {
+      "type": "bloco",
+      "position": { "x": 4, "y": 1, "z": 0 },
+      "scale": { "x": 1, "y": 1, "z": 1 },
+      "color": "#2196F3"
+    },
+    {
+      "type": "bloco",
+      "position": { "x": 0, "y": 2, "z": 2 },
+      "scale": { "x": 3, "y": 1, "z": 1 },
+      "color": "#9C27B0"
+    },
+    {
+      "type": "moeda",
+      "position": { "x": -4, "y": 2.5, "z": 0 },
+      "scale": { "x": 0.5, "y": 0.5, "z": 0.5 },
+      "color": "#FFEB3B"
+    },
+    {
+      "type": "moeda",
+      "position": { "x": 0, "y": 3.5, "z": 2 },
+      "scale": { "x": 0.5, "y": 0.5, "z": 0.5 },
+      "color": "#FFEB3B"
+    },
+    {
+      "type": "moeda",
+      "position": { "x": 4, "y": 2.5, "z": 0 },
+      "scale": { "x": 0.5, "y": 0.5, "z": 0.5 },
+      "color": "#FFEB3B"
+    }
+  ]
+}
